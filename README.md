@@ -52,43 +52,7 @@ All analyses were conducted using Python-based bioinformatics scripts.
 
 ---
 
-## 📁 Repository Structure
 
-ageing-transcriptomics/
-│
-├── scripts/
-│ ├── collect_gene_counts.py
-│ ├── merge_gene_counts.py
-│ ├── clean_expression_matrix.py
-│ ├── normalize_expression.py
-│ ├── differential_expression.py
-│ ├── pca_plot.py
-│ ├── volcano_plot.py
-│ ├── top_genes.py
-│ └── functional_enrichment.py
-│
-├── figures/
-│ ├── pca_plot.png
-│ ├── volcano_plot.png
-│ ├── heatmap.png
-│ ├── boxplot_ptgis.png
-│ └── go_enrichment.png
-│
-├── thesis/
-│ ├── main.tex
-│ ├── references.bib
-│ └── figures/
-│
-├── data/
-│ ├── raw/
-│ │ └── README.md
-│ └── processed/
-│ └── README.md
-│
-├── .gitignore
-├── README.md
-└── LICENSE (optional)
----
 
 ## 📂 Data Availability
 
